@@ -1,4 +1,4 @@
-# Scriptmizer
+# Scriptmizer (Project Renamed: https://github.com/luciancaetano/scriptails)
 
 
 ![preview](https://media.giphy.com/media/L0SKuIdItTmOOiTlwg/giphy.gif "Prewview")
